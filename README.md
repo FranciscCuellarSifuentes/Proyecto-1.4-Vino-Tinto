@@ -5,8 +5,8 @@ A continuación, generaremos un modelo de regresión lineal múltiple que conten
 
 Índice:
 
-[Vista Previa](./A1.4 598303.html)
+[Vista Previa](./ProyectoA1.4.html)
 
-[Codigo.jpynb](./A1.4 598303.ipynb)
+[Codigo.jpynb](./ProyectoA1.4.ipynb)
 
-[Base de Datos](./A1.4 Vino Tinto.xls)
+[Base de Datos](./BasedeDatosA1.4VinoTinto.xls)
